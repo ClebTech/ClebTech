@@ -6,14 +6,17 @@
 
 ## Tecnologias que uso
 
-#### Principais tecnologias:
+#### Estudando:
 
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
 #### Também tenho um certo conhecimento em:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
 
 #### Ferramentas em que desenvolvo:
